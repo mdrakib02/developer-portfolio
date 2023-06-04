@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+ .header{
+    background: #FFF8F3;
+    background-image: url("../images/header_bg.png"), url(../images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+/* Header and Navigation Styles */
+.nav-title{
+    font-weight: 800px;
+    font-size: 45px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav, ul{
+    display: flex;
+    align-items: center;  
+}
+.k-primary{
+    color: coral;
+ }
+ nav,li{
+    margin-left: 50px;
+    list-style: none;
+   
+ }
+
+ .btn-primary{
+    color: #FFFFFF;
+    height: 64px;
+    border-radius: 5px;
+    background-color: coral;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0px;
+    padding: 18px 35px;
+ }
+ /* Banner styles */
+ 
+ .banner{
+    margin: 0px 200px;
+    display: flex;
+    align-items: center;
+ }
+ .banner-title{
+    font-weight: 600;
+    font-size: 45px;
+ }
+ .banner-sub-title{
+    font-weight: 700px;
+    font-size: 85px;
+    color: #181818;
+ }
+ .banner-description{
+    color: #757575;
+    margin-top: 20px;
+    margin-bottom: 30px;
+ }
+/* Main Styles */
+
+ main{
+  
+   max-width: 1140px;
+  margin: 0 auto;
+  
+ }
+   
+  .about-me{
+   margin-top: 130px;
+   background: #FFF8F3;
+   border-radius: 10px;
+   padding: 130px 150px;
+   
+  }
+
+.section-title{
+
+}
+.banner-description{
+
+}
