@@ -76,12 +76,31 @@ nav, ul{
    background: #FFF8F3;
    border-radius: 10px;
    padding: 130px 150px;
-   
+   text-align: center;
   }
 
 .section-title{
-
+   
+   margin-bottom: 30px;
 }
 .banner-description{
-
+   color: #757575;
+   font-weight: 700px;
+   font-size: 18px;
+   margin-bottom: 30px; 
 }
+  .about-info-container{
+   display: flex;
+   justify-content: space-around;
+  }
+  .about-info-title{
+   font-weight: 700px;
+   color: #757575;
+   line-height: 30px;
+  }
+  .about-info-description{
+   color: #474747;
+   font-size: 20px;
+   font-weight: 700px;
+
+  }
