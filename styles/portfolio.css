@@ -83,7 +83,7 @@ nav, ul{
    
    margin-bottom: 30px;
 }
-.banner-description{
+.section-description{
    color: #757575;
    font-weight: 700px;
    font-size: 18px;
@@ -94,13 +94,15 @@ nav, ul{
    justify-content: space-around;
   }
   .about-info-title{
-   font-weight: 700px;
+   
    color: #757575;
    line-height: 30px;
+   font-weight: 400;
+   font-size: 20px;
   }
   .about-info-description{
-   color: #474747;
+   color: #100f0f;
    font-size: 20px;
    font-weight: 700px;
+}
 
-  }
